@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rsd-travels/static/css/main.9533e97f.css",
+    "main.js": "/rsd-travels/static/js/main.8745ad1f.js",
+    "index.html": "/rsd-travels/index.html",
+    "main.9533e97f.css.map": "/rsd-travels/static/css/main.9533e97f.css.map",
+    "main.8745ad1f.js.map": "/rsd-travels/static/js/main.8745ad1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9533e97f.css",
+    "static/js/main.8745ad1f.js"
+  ]
+}
